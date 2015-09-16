@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說花積樓閣陀羅尼經
+#+DATE: 2015-08-30 20:35:48.384414
+#+PROPERTY: JUAN 0
